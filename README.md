@@ -9,4 +9,11 @@ This data set is licensed under CC0 1.0 Universal (CC0 1.0) Public Domain Dedica
 
 The data set I created is licensed under CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
 
+Data Dictionary 
+Attribute	- Data Type	- Description
+danceability - int - This is the score for how easy it is to dance to the song on a scale of 0-1
+tiktok popularity	- int -	This is the score for how popular a song is on TikTok in 2021 on a scale of 0-100
+spotify popularity- int	- This is the score for how popular a song is on Potify in 2021 on a scale of 0-100
+
+
 Limitations: The data found for TikTok was on publicly open site and didn’t say whether or not TikTok themselves provided the raw data or how the data was collected. The raw data didn’t explain how danceability was calculated so it’s possible that different data sources could score danceability differently. It's important to note that this data is from 2021 and the popularity scores of songs will be different prior to and after 2021.
