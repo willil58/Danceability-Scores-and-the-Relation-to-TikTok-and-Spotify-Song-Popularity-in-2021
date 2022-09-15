@@ -1,4 +1,4 @@
-#Danceability Scores and the Relation to TikTok and Spotify Song Popularity in 2021
+##Danceability Scores and the Relation to TikTok and Spotify Song Popularity in 2021
 
 I was curious how danceability scores affected how popular a song was on Spotify and TikTok and wanted to visually see how the popularity scores related to danceability on each application. I felt the best way to do this was to create a line graph.
 
